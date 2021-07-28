@@ -1,6 +1,7 @@
 apt install texlive-latex-recommended\
             texlive-latex-extra\
-            dvipng
+            dvipng\
+            cm-super
 
 # install type1cm package
 wget http://mirrors.ctan.org/macros/latex/contrib/type1cm.zip 
